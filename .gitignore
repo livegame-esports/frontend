@@ -1,0 +1,11 @@
+# Ignored paths
+/node_modules/
+/.next/
+
+# Evironment files
+.env
+.env.local
+.env.global
+
+# Temp paths
+/temp/
